@@ -1,0 +1,10 @@
+== README
+  
+  Description:
+    This program is written to find longest consecutive sequence of Prime Numbers which can result in a largest Prime Number under 1 Million when performed a summation.
+
+  Instructions to Run:
+    Download and extract or cloan with Git.
+    Go inside the Directory.
+    Then run: ruby longest_sequence_prime.rb
+      * Ruby must be installed in your system.
